@@ -20,7 +20,7 @@ Meu objetivo é usar a tecnologia como ferramenta de transformação — contrib
 
 💡 **Curiosidade**: Estou desenvolvendo projetos que automatizam processos e facilitam o dia a dia das pessoas.
 
-🔗 **Portfólio**: [Acesse meu portfólio](https://github.com/daltonneres/portfolio_neres.git)
+🔗 **Portfólio**: [Acesse meu portfólio](https://daltonneres.github.io/potfolio_neres/)
 
 ---
 
