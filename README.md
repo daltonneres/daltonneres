@@ -4,7 +4,7 @@
 
 👋 Olá! Meu nome é Dalton José Neres, tenho 17 anos e sou estudante do ensino médio, além de atuar como **desenvolvedor Full Stack**. Sou apaixonado por tecnologia e programação, sempre em busca de aprender, criar e transformar ideias em soluções reais.
 
-Atualmente, desenvolvo aplicações web modernas com **React no front-end** e tecnologias robustas no back-end, unindo criatividade, acessibilidade e impacto positivo.  
+Tenho experiência tanto em front-end quanto em back-end, mas atualmente meu foco principal é **desenvolvimento front-end**, criando interfaces modernas, funcionais e acessíveis.  
 Meu objetivo é usar a tecnologia como ferramenta de transformação — contribuindo para um futuro mais inclusivo, acessível e inteligente. 🚀
 
 ---
@@ -12,8 +12,8 @@ Meu objetivo é usar a tecnologia como ferramenta de transformação — contrib
 ## Sobre mim
 
 📚 Atualmente estou focado em:
-- Desenvolvimento **Full Stack**
-- Criação de interfaces com **React**
+- Desenvolvimento **Front-end** moderno
+- Explorar novas tecnologias e boas práticas
 - Projetos com impacto social e foco em acessibilidade
 
 🎯 **Objetivos**: Me especializar cada vez mais na área de tecnologia e construir soluções úteis e inovadoras.
