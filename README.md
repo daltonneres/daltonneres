@@ -2,33 +2,32 @@
 
 ---
 
-👋 Olá! Meu nome é **Dalton José Neres**, tenho 17 anos e sou estudante do ensino médio e **Desenvolvedor Full Stack**.
+👋 Olá! Meu nome é **Dalton José Neres** e atualmente sou estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na **Unisep, campus de Dois Vizinhos**, além de atuar como **Desenvolvedor Front-end**.
 
-Sou apaixonado por tecnologia, programação e criação de soluções digitais que realmente fazem a diferença. Ao longo da minha jornada, venho desenvolvendo projetos que unem criatividade, funcionalidade e impacto prático — sempre com foco em experiência do usuário e boas práticas de desenvolvimento.
+Sou apaixonado por tecnologia, programação e criação de soluções digitais que realmente fazem a diferença. Meu foco principal está na construção de interfaces modernas, funcionais, acessíveis e bem estruturadas, sempre priorizando uma boa experiência para o usuário.
 
-Atualmente, meu foco principal é **Front-end**, onde trabalho na construção de interfaces modernas, acessíveis e responsivas, mas também tenho experiência com Back-end e lógica de sistemas, o que me permite desenvolver aplicações completas e bem estruturadas.
-
-Meu objetivo é utilizar a tecnologia como ferramenta de transformação — criando soluções mais acessíveis, inteligentes e eficientes para pessoas e empresas. 🚀
+Busco constantemente aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias, boas práticas e tendências do mercado. Meu objetivo é construir produtos digitais eficientes, visualmente atraentes e com impacto real para pessoas e empresas. 🚀
 
 ---
 
 ## 💡 Sobre mim
 
 📚 **Atualmente estou focado em:**
-- Desenvolvimento Front-end moderno (UI/UX, performance e acessibilidade)
-- Aprimorar arquitetura de aplicações e boas práticas de código  
-- Criar projetos com impacto real e valor para usuários
+- Desenvolvimento **Front-end moderno**
+- UI/UX, performance e acessibilidade  
+- Boas práticas de código e organização de projetos  
+- Aprendizado contínuo em tecnologias web  
 
 🎯 **Objetivos:**
-- Me especializar ainda mais em desenvolvimento web  
-- Construir produtos digitais escaláveis e inovadores  
-- Trabalhar em projetos que unam tecnologia e impacto social  
+- Me especializar cada vez mais em Front-end  
+- Criar interfaces profissionais e de alto nível  
+- Trabalhar em projetos inovadores e de impacto  
 
 ⚙️ **O que eu gosto de construir:**
-- Sistemas web
-- Landing pages de alta conversão  
-- Plataformas interativas  
-- Automações e ferramentas para otimizar processos  
+- Sites e landing pages  
+- Interfaces interativas  
+- Dashboards e painéis administrativos  
+- Aplicações web focadas em experiência do usuário  
 
 🔗 **Portfólio:**  
 👉 [Acesse meu portfólio completo](https://daltonneres.github.io/potfolio_neres/)
@@ -45,7 +44,7 @@ Meu objetivo é utilizar a tecnologia como ferramenta de transformação — cri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
 
-### ⚙️ Back-end
+### ⚙️ Back-end (conhecimentos)
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
