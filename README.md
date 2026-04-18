@@ -53,13 +53,7 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 - Interfaces modernas, interativas e responsivas
 - **Dashboards e painéis administrativos** com foco em usabilidade
 - Landing pages estratégicas com foco em conversão
-- Aplicações web voltadas à **experiência do usuário e eficiência operacional**
-
-📚 **Atualmente aprendendo:**
-- Arquitetura de **software** e **sistemas escaláveis**  
-- Integração com **APIs e automações**  
-- **Inteligência Artificial** aplicada a produtos  
-- Desenvolvimento mobile **(Android/iOS)**  
+- Aplicações web voltadas à **experiência do usuário e eficiência operacional**  
 
 🔗 **Portfólio:**  
 👉 [Acesse meu portfólio completo](https://linkneres.vercel.app/)
