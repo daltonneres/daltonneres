@@ -14,6 +14,25 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 
 ---
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daltonneres&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daltonneres&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Diferenciais
+
+- Experiência prática com **projetos reais e startup**
+- Atuação profissional na **CISS S.A**
+- Foco em **acessibilidade e experiência do usuário**
+- Visão de produto (não apenas código)
+- Desenvolvimento orientado a **soluções de negócio**
+
+---
+
 ## 💡 Sobre mim
 
 📚 **Atualmente estou focado em:**
@@ -35,6 +54,13 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 - **Dashboards e painéis administrativos** com foco em usabilidade
 - Landing pages estratégicas com foco em conversão
 - Aplicações web voltadas à **experiência do usuário e eficiência operacional**
+
+## 📚 Atualmente aprendendo
+
+- Arquitetura de software e sistemas escaláveis  
+- Integração com APIs e automações  
+- Inteligência Artificial aplicada a produtos  
+- Desenvolvimento mobile (Android/iOS)  
 
 🔗 **Portfólio:**  
 👉 [Acesse meu portfólio completo](https://linkneres.vercel.app/)
@@ -95,7 +121,11 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 
 ---
 
-## 📬 Entre em contato
+## 🤝 Vamos conectar?
+
+Estou aberto a oportunidades, parcerias e novos projetos.
+
+Se você busca alguém comprometido com qualidade, inovação e resultado, vamos conversar 🚀
 
 <p align="center">
   <a href="https://github.com/daltonneres"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a>
