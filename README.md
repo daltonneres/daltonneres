@@ -2,35 +2,42 @@
 
 ---
 
-👋 Olá! Meu nome é **Dalton José Neres** e atualmente sou estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na **Unisep, campus de Dois Vizinhos**, além de atuar como **Desenvolvedor Front-end**.
+👋 Olá! Meu nome é **Dalton José Neres** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNISEP, campus de Dois Vizinhos.
 
-Sou apaixonado por tecnologia, programação e criação de soluções digitais que realmente fazem a diferença. Meu foco principal está na construção de interfaces modernas, funcionais, acessíveis e bem estruturadas, sempre priorizando uma boa experiência para o usuário.
+Atuo como **Desenvolvedor de Software na CISS S.A** e também como **Desenvolvedor Full Stack**, trabalhando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
 
-Busco constantemente aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias, boas práticas e tendências do mercado. Meu objetivo é construir produtos digitais eficientes, visualmente atraentes e com impacto real para pessoas e empresas. 🚀
+Sou apaixonado por tecnologia e desenvolvimento, com foco na construção de aplicações funcionais, acessíveis e bem estruturadas. Busco sempre unir **performance, usabilidade e design** para entregar produtos que realmente gerem valor para pessoas e empresas.
+
+Além disso, sou idealizador do projeto **HabitPay**, uma solução em desenvolvimento voltada à inovação em pagamentos e automação, atualmente em processo de incubação pela Sudotec.
+
+Estou em constante evolução, explorando novas tecnologias, boas práticas e tendências do mercado, com o objetivo de desenvolver soluções digitais de alto impacto e relevância. 🚀
 
 ---
 
 ## 💡 Sobre mim
 
 📚 **Atualmente estou focado em:**
-- Desenvolvimento **Front-end moderno**
-- UI/UX, performance e acessibilidade  
-- Boas práticas de código e organização de projetos  
-- Aprendizado contínuo em tecnologias web  
+- Desenvolvimento **Full Stack**, com ênfase em **Front-end moderno**
+- Criação de interfaces com foco em **UI/UX, performance e acessibilidade**
+- Aplicação de **boas práticas, arquitetura e organização de projetos**
+- Desenvolvimento de soluções escaláveis no contexto profissional e de startup
+- Aprendizado contínuo e adaptação às **novas tecnologias do ecossistema web**  
 
 🎯 **Objetivos:**
-- Me especializar cada vez mais em Front-end  
-- Criar interfaces profissionais e de alto nível  
-- Trabalhar em projetos inovadores e de impacto  
+- Evoluir como **Desenvolvedor Full Stack**, aprofundando especialização em Front-end
+- Construir **produtos digitais robustos, escaláveis e de alto nível**
+- Atuar em projetos inovadores com **impacto real no mercado**
+- Expandir experiência com **produtos SaaS e soluções voltadas a negócios**
 
 ⚙️ **O que eu gosto de construir:**
-- Sites e landing pages  
-- Interfaces interativas  
-- Dashboards e painéis administrativos  
-- Aplicações web focadas em experiência do usuário  
+- **Sistemas web completos** (front-end + back-end)
+- Interfaces modernas, interativas e responsivas
+- **Dashboards e painéis administrativos** com foco em usabilidade
+- Landing pages estratégicas com foco em conversão
+- Aplicações web voltadas à **experiência do usuário e eficiência operacional**
 
 🔗 **Portfólio:**  
-👉 [Acesse meu portfólio completo](https://daltonneres.github.io/potfolio_neres/)
+👉 [Acesse meu portfólio completo](https://linkneres.vercel.app/)
 
 ---
 
@@ -42,32 +49,47 @@ Busco constantemente aprimorar minhas habilidades em desenvolvimento web, explor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
 ### ⚙️ Back-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
 ### 💻 Linguagens
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
 </p>
 
 ### 🗄️ Bancos de Dados
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
 
-### 🛠️ Ferramentas e IA
+### 🛠️ Ferramentas & Tecnologias
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+### 🤖 IA & Machine Learning
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 </p>
 
@@ -76,18 +98,11 @@ Busco constantemente aprimorar minhas habilidades em desenvolvimento web, explor
 ## 📬 Entre em contato
 
 <p align="center">
-  <a href="https://github.com/daltonneres">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dalton-jos%C3%A9-neres">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/dalton_neres">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="mailto:dev.neresdalton@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
+  <a href="https://github.com/daltonneres"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a>
+  <a href="https://www.linkedin.com/in/dalton-jos%C3%A9-neres"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a>
+  <a href="https://www.instagram.com/dalton_neres"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/> </a>
+  <a href="https://www.tiktok.com/@developer_neres"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/> </a>
+  <a href="mailto:dev.neresdalton@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail"/> </a>
 </p>
 
 ---
