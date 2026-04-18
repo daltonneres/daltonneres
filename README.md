@@ -55,12 +55,12 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 - Landing pages estratégicas com foco em conversão
 - Aplicações web voltadas à **experiência do usuário e eficiência operacional**
 
-## 📚 Atualmente aprendendo
+📚 **Atualmente aprendendo**
 
-- Arquitetura de software e sistemas escaláveis  
-- Integração com APIs e automações  
-- Inteligência Artificial aplicada a produtos  
-- Desenvolvimento mobile (Android/iOS)  
+- Arquitetura de **software** e **sistemas escaláveis**  
+- Integração com **APIs e automações**  
+- **Inteligência Artificial** aplicada a produtos  
+- Desenvolvimento mobile **(Android/iOS)**  
 
 🔗 **Portfólio:**  
 👉 [Acesse meu portfólio completo](https://linkneres.vercel.app/)
