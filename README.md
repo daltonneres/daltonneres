@@ -44,7 +44,7 @@ Busco constantemente aprimorar minhas habilidades em desenvolvimento web, explor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
 
-### ⚙️ Back-end (conhecimentos)
+### ⚙️ Back-end
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
