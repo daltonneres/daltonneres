@@ -4,7 +4,7 @@
 
 👋 Olá! Meu nome é **Dalton José Neres** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNISEP, campus de Dois Vizinhos.
 
-Atuo como **Desenvolvedor de Software na CISS** e também como **Desenvolvedor Full Stack**, trabalhando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
+Atuo como **Desenvolvedor de Software na CISS S.A | Gestão para o Varejo** e também como **Desenvolvedor Full Stack**, trabalhando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
 
 Sou apaixonado por tecnologia e desenvolvimento, com foco na construção de aplicações funcionais, acessíveis e bem estruturadas. Busco sempre unir **performance, usabilidade e design** para entregar produtos que realmente gerem valor para pessoas e empresas.
 
@@ -56,7 +56,6 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 - Aplicações web voltadas à **experiência do usuário e eficiência operacional**
 
 📚 **Atualmente aprendendo:**
-
 - Arquitetura de **software** e **sistemas escaláveis**  
 - Integração com **APIs e automações**  
 - **Inteligência Artificial** aplicada a produtos  
