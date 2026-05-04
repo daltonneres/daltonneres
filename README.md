@@ -26,11 +26,11 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daltonneres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daltonneres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daltonneres&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daltonneres&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=daltonneres&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=daltonneres&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 
 </div>
 
