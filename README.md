@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Dalton%20Neres&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">E aí! 👋 Tudo bem?</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Software+Developer+na+CISS+S.A;Criando+soluções+digitais+modernas;Focado+em+UI%2FUX%2C+Performance+e+Acessibilidade;Fundador+da+HabitPAY+🚀"/>
+</p>
 
 ---
 
@@ -14,11 +22,40 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas & Atividade
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daltonneres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daltonneres&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=daltonneres&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daltonneres&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daltonneres&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daltonneres&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🏆 Conquistas GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daltonneres&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🐍 Animação dos Commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daltonneres/daltonneres/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
