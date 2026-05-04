@@ -39,7 +39,9 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 # 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daltonneres&theme=tokyo-night&hide_border=true&area=true"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=daltonneres&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições"
+  />
 </p>
 
 ---
@@ -47,7 +49,9 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 # 🏆 Conquistas GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daltonneres&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=daltonneres&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
+  />
 </p>
 
 ---
