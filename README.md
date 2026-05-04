@@ -30,7 +30,7 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daltonneres&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=daltonneres&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=daltonneres&theme=tokyonight&hide_border=true"/>
 
 </div>
 
