@@ -22,6 +22,52 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
 
 ---
 
+# 💼 Experiência Profissional
+
+### Desenvolvedor de Software
+CISS S.A | Gestão para o Varejo
+
+- Desenvolvimento e manutenção de sistemas corporativos
+- Evolução de funcionalidades para o setor varejista
+- Correção de bugs e melhorias contínuas
+- Trabalho em equipe utilizando metodologias ágeis
+
+### Fundador & Desenvolvedor Full Stack
+HabitPAY
+
+- Liderança do projeto
+- Desenvolvimento da plataforma web
+- Planejamento estratégico do produto
+- Pesquisa de mercado e validação de negócio
+
+---
+
+# 🚀 Projetos em Destaque
+
+## HabitPAY
+Sistema focado em automação, pagamentos e gestão digital.
+
+**Tecnologias:**
+React • Node.js • PostgreSQL
+
+---
+
+## SmartMarket
+Plataforma acessível para supermercados com automação e inteligência artificial.
+
+**Tecnologias:**
+PHP • JavaScript • MySQL
+
+---
+
+## Portfólio Profissional
+Site desenvolvido para apresentar projetos, experiência e serviços.
+
+**Tecnologias:**
+HTML • CSS • JavaScript
+
+---
+
 # 📊 Estatísticas & Atividade
 
 <div align="center">
@@ -170,6 +216,17 @@ Estou em constante evolução, explorando novas tecnologias, boas práticas e te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
 </p>
+
+---
+
+## 🌎 Idiomas
+
+🇧🇷 Português
+Nativo
+
+🇺🇸 Inglês
+Intermediário
+Leitura de documentação técnica, artigos e conteúdos voltados ao desenvolvimento de software.
 
 ---
 
