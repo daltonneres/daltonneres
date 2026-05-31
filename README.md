@@ -10,15 +10,11 @@
 
 ---
 
-👋 Olá! Meu nome é **Dalton José Neres** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNISEP, campus de Dois Vizinhos.
+👋 Olá! Sou Dalton José Neres, Desenvolvedor Full Stack e Desenvolvedor de Software na CISS S.A, atuando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
 
-Atuo como **Desenvolvedor de Software na CISS S.A | Gestão para o Varejo** e também como **Desenvolvedor Full Stack**, trabalhando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na UNISEP e sou fundador da HabitPAY, projeto focado em inovação, automação e transformação digital.
 
-Sou apaixonado por tecnologia e desenvolvimento, com foco na construção de aplicações funcionais, acessíveis e bem estruturadas. Busco sempre unir **performance, usabilidade e design** para entregar produtos que realmente gerem valor para pessoas e empresas.
-
-Além disso, sou idealizador do projeto **HabitPAY**, uma solução em desenvolvimento voltada à inovação em pagamentos e automação, atualmente em processo de incubação pela Sudotec.
-
-Estou em constante evolução, explorando novas tecnologias, boas práticas e tendências do mercado, com o objetivo de desenvolver soluções digitais de alto impacto e relevância. 🚀
+Tenho grande interesse por desenvolvimento web, arquitetura de software, acessibilidade e construção de produtos digitais que geram impacto real para empresas e pessoas.
 
 ---
 
@@ -245,4 +241,4 @@ Se você busca alguém comprometido com qualidade, inovação e resultado, vamos
 
 ---
 
-🧠 *“Aprender a programar é um processo contínuo — errar, melhorar e evoluir. Cada projeto é um passo a mais nessa jornada.”*
+🧠 "Tecnologia não é apenas código. É a capacidade de transformar ideias em soluções que geram impacto real."
