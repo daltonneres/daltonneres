@@ -65,30 +65,6 @@ HTML • CSS • JavaScript
 
 ---
 
-## 📊 Dashboard Multiuso
-Sistema para visualização e gerenciamento de informações empresariais com interface moderna e intuitiva.
-
-**Tecnologias:**
-HTML • CSS • JavaScript
-
----
-
-## 📅 Sistema de Agendamentos
-Plataforma web para organização de horários, reservas e atendimentos.
-
-**Tecnologias:**
-HTML • CSS • JavaScript
-
----
-
-## SmartMarket
-Plataforma acessível para supermercados com automação e inteligência artificial.
-
-**Tecnologias:**
-PHP • JavaScript • MySQL
-
----
-
 ## Portfólio Profissional
 Site desenvolvido para apresentar projetos, experiência e serviços.
 
