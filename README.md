@@ -5,14 +5,14 @@
 <h1 align="center">E aí! 👋 Tudo bem?</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Software+Developer+na+CISS+S.A;Criando+soluções+digitais+modernas;Focado+em+UI%2FUX%2C+Performance+e+Acessibilidade;Fundador+da+HabitPAY+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Software+Developer+na+CISS+S.A;Criando+soluções+digitais+modernas;Focado+em+UI%2FUX%2C+Performance+e+Acessibilidade"/>
 </p>
 
 ---
 
 👋 Olá! Sou Dalton José Neres, Desenvolvedor Full Stack e Desenvolvedor de Software na CISS S.A, atuando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na UNIPAR e sou fundador da HabitPAY, projeto focado em inovação, automação e transformação digital.
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na UNIPAR e atuo também como desenvolvedor freelancer, criando sites institucionais, landing pages e sistemas administrativos para empresas locais e regionais.
 
 Tenho grande interesse por desenvolvimento web, arquitetura de software, acessibilidade e construção de produtos digitais que geram impacto real para empresas e pessoas.
 
@@ -27,24 +27,57 @@ CISS S.A | Gestão para o Varejo
 - Evolução de funcionalidades para o setor varejista
 - Correção de bugs e melhorias contínuas
 - Trabalho em equipe utilizando metodologias ágeis
+- Participação no desenvolvimento de soluções escaláveis para grandes operações
 
-### Fundador & Desenvolvedor Full Stack
-HabitPAY
+### Desenvolvedor Freelancer
 
-- Liderança do projeto
-- Desenvolvimento da plataforma web
-- Planejamento estratégico do produto
-- Pesquisa de mercado e validação de negócio
+- Desenvolvimento de sites institucionais
+- Landing pages focadas em conversão
+- Sistemas administrativos personalizados
+- Integrações com Firebase
+- Soluções digitais para empresas locais e regionais
 
 ---
 
 # 🚀 Projetos em Destaque
 
-## HabitPAY
-Sistema focado em automação, pagamentos e gestão digital.
+## 🌎 You Can — Escola de Inglês
+Plataforma institucional bilíngue desenvolvida para captação de alunos, apresentação de cursos e fortalecimento da presença digital da escola.
 
 **Tecnologias:**
-React • Node.js • PostgreSQL
+HTML • CSS • JavaScript
+
+---
+
+## 💄 Ana Luiza Fernandes Makeup
+Sistema de gerenciamento de atendimentos com área administrativa, organização de agenda e persistência de dados.
+
+**Tecnologias:**
+HTML • CSS • JavaScript • Firebase
+
+---
+
+## 💎 Alisson de Paula Joias
+Landing page premium para joalheria especializada em ouro 18K, com apresentação de produtos, catálogo organizado e foco em conversão via WhatsApp.
+
+**Tecnologias:**
+HTML • CSS • JavaScript
+
+---
+
+## 📊 Dashboard Multiuso
+Sistema para visualização e gerenciamento de informações empresariais com interface moderna e intuitiva.
+
+**Tecnologias:**
+HTML • CSS • JavaScript
+
+---
+
+## 📅 Sistema de Agendamentos
+Plataforma web para organização de horários, reservas e atendimentos.
+
+**Tecnologias:**
+HTML • CSS • JavaScript
 
 ---
 
@@ -106,11 +139,12 @@ HTML • CSS • JavaScript
 
 ## 🧠 Diferenciais
 
-- Experiência prática com **projetos reais e startup**
+- Experiência prática com **projetos reais e freelas**
 - Atuação profissional na **CISS S.A**
 - Foco em **acessibilidade e experiência do usuário**
-- Visão de produto (não apenas código)
-- Desenvolvimento orientado a **soluções de negócio**
+- Desenvolvimento orientado a **resultados**
+- Visão de produto e negócio (não apenas código)
+- Facilidade para aprender novas tecnologias
 
 ---
 
@@ -120,21 +154,28 @@ HTML • CSS • JavaScript
 - Desenvolvimento **Full Stack**, com ênfase em **Front-end moderno**
 - Criação de interfaces com foco em **UI/UX, performance e acessibilidade**
 - Aplicação de **boas práticas, arquitetura e organização de projetos**
-- Desenvolvimento de soluções escaláveis no contexto profissional e de startup
-- Aprendizado contínuo e adaptação às **novas tecnologias do ecossistema web**  
+- Aprendizado contínuo e adaptação às **novas tecnologias do ecossistema web**
+
+📖 **Atualmente estudando:**
+- Java
+- Arquitetura de Software
+- Desenvolvimento Full Stack
+- Boas práticas de programação
+- Performance Web
+- Acessibilidade Digital
 
 🎯 **Objetivos:**
 - Evoluir como **Desenvolvedor Full Stack**, aprofundando especialização em Front-end
 - Construir **produtos digitais robustos, escaláveis e de alto nível**
 - Atuar em projetos inovadores com **impacto real no mercado**
-- Expandir experiência com **produtos SaaS e soluções voltadas a negócios**
+- Contribuir para soluções que gerem impacto real para empresas e pessoas
 
 ⚙️ **O que eu gosto de construir:**
 - **Sistemas web completos** (front-end + back-end)
 - Interfaces modernas, interativas e responsivas
 - **Dashboards e painéis administrativos** com foco em usabilidade
 - Landing pages estratégicas com foco em conversão
-- Aplicações web voltadas à **experiência do usuário e eficiência operacional**  
+- Aplicações web voltadas à **experiência do usuário e eficiência operacional**
 
 🔗 **Portfólio:**  
 👉 [Acesse meu portfólio completo](https://linkneres.vercel.app/)
