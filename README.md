@@ -4,8 +4,6 @@
 
 <h1 align="center">E aí! 👋 Tudo bem?</h1>
 
----
-
 👋 Olá! Sou Dalton José Neres, Desenvolvedor Full Stack e Desenvolvedor de Software na CISS S.A, atuando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
 
 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na UNIPAR e atuo também como desenvolvedor freelancer, criando sites institucionais, landing pages e sistemas administrativos para empresas locais e regionais.
