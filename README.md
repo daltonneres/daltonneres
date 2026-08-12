@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Software+Developer+na+CISS+S.A;Criando+soluções+digitais+modernas;Focado+em+UI%2FUX%2C+Performance+e+Acessibilidade"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-2563eb?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=daltonneres&style=for-the-badge&color=2563eb&label=Visitas+ao+perfil"/>
+</p>
+
 ---
 
 👋 Olá! Sou Dalton José Neres, Desenvolvedor Full Stack e Desenvolvedor de Software na CISS S.A, atuando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
@@ -21,7 +26,7 @@ Tenho grande interesse por desenvolvimento web, arquitetura de software, acessib
 # 💼 Experiência Profissional
 
 ### Desenvolvedor de Software
-CISS S.A | Gestão para o Varejo
+**CISS S.A** — Gestão para o Varejo
 
 - Desenvolvimento e manutenção de sistemas corporativos
 - Evolução de funcionalidades para o setor varejista
@@ -41,35 +46,66 @@ CISS S.A | Gestão para o Varejo
 
 # 🚀 Projetos em Destaque
 
-## 🌎 You Can — Escola de Inglês
+### 🌎 You Can — Escola de Inglês
 Plataforma institucional bilíngue desenvolvida para captação de alunos, apresentação de cursos e fortalecimento da presença digital da escola.
 
-**Tecnologias:**
-HTML • CSS • JavaScript
+`HTML` `CSS` `JavaScript`
+
+🔗 [Ver projeto](https://www.youcanescoladeingles.com.br/)
 
 ---
 
-## 💄 Ana Luiza Fernandes Makeup
-Sistema de gerenciamento de atendimentos com área administrativa, organização de agenda e persistência de dados.
+### 💄 Ana Luiza Fernandes Makeup
+Sistema de gerenciamento de atendimentos com área administrativa, organização de agenda e persistência de dados. Case de sucesso com cliente ativa desde outubro de 2025.
 
-**Tecnologias:**
-HTML • CSS • JavaScript • Firebase
+`HTML` `CSS` `JavaScript` `Firebase`
+
+🔗 [Ver projeto](https://ana-luiza-fernandes-makeup-site.vercel.app/)
 
 ---
 
-## 💎 Alisson de Paula Joias
+### 💎 Alisson de Paula Joias
 Landing page premium para joalheria especializada em ouro 18K, com apresentação de produtos, catálogo organizado e foco em conversão via WhatsApp.
 
-**Tecnologias:**
-HTML • CSS • JavaScript
+`HTML` `CSS` `JavaScript`
+
+🔗 [Ver projeto](https://daltonneres.github.io/joias_apresentacao_fabiana/)
 
 ---
 
-## Portfólio Profissional
-Site desenvolvido para apresentar projetos, experiência e serviços.
+### 📊 Dashboard Multiuso
+Sistema de visualização e controle de dados com métricas em tempo real, adaptável a diferentes tipos de negócio.
 
-**Tecnologias:**
-HTML • CSS • JavaScript
+`HTML` `CSS` `JavaScript`
+
+🔗 [Ver projeto](https://daltonneres.github.io/dashboard-EMPRESAS/)
+
+---
+
+### 📅 Sistema de Agendamentos
+Solução web para organização de horários e atendimentos, com interface intuitiva e gerenciamento centralizado.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [Ver projeto](https://daltonneres.github.io/agendaaqui/)
+
+---
+
+### 🍕 La Famiglia Pizza
+Cardápio digital responsivo desenvolvido para facilitar pedidos e melhorar a navegação do usuário em dispositivos móveis.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [Ver projeto](https://daltonneres.github.io/Lafamigliapizza-site/)
+
+---
+
+### 🎓 Portfólio Profissional
+Site desenvolvido para apresentar projetos, experiência e serviços — com página dedicada de suporte técnico separada da vitrine de desenvolvimento.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [Acesse meu portfólio completo](https://linkneres.vercel.app/)
 
 ---
 
@@ -90,7 +126,7 @@ HTML • CSS • JavaScript
 # 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=daltonneres&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições"
   />
 </p>
@@ -100,7 +136,7 @@ HTML • CSS • JavaScript
 # 🏆 Conquistas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daltonneres&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daltonneres&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -146,98 +182,57 @@ HTML • CSS • JavaScript
 - Atuar em projetos inovadores com **impacto real no mercado**
 - Contribuir para soluções que gerem impacto real para empresas e pessoas
 
-⚙️ **O que eu gosto de construir:**
-- **Sistemas web completos** (front-end + back-end)
-- Interfaces modernas, interativas e responsivas
-- **Dashboards e painéis administrativos** com foco em usabilidade
-- Landing pages estratégicas com foco em conversão
-- Aplicações web voltadas à **experiência do usuário e eficiência operacional**
-
-🔗 **Portfólio:**  
-👉 [Acesse meu portfólio completo](https://linkneres.vercel.app/)
-
 ---
 
 ## 🚀 Tecnologias que utilizo
 
-### 🎨 Front-end
+### 🎯 No dia a dia
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 </p>
 
-### ⚙️ Back-end
+### 🧩 Também utilizo / conheço
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-
-### 💻 Linguagens
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
-</p>
-
-### 🗄️ Bancos de Dados
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-</p>
-
-### 🛠️ Ferramentas & Tecnologias
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/>
-</p>
-
-### 🤖 IA & Machine Learning
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
-
-### 📱 Mobile & Sistemas
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="36" title="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="36" title="iOS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="36" title="Swift"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>
 </p>
 
 ---
 
 ## 🌎 Idiomas
 
-🇧🇷 Português
-Nativo
+🇧🇷 **Português** — Nativo
 
-🇺🇸 Inglês
-Intermediário
-Leitura de documentação técnica, artigos e conteúdos voltados ao desenvolvimento de software.
+🇺🇸 **Inglês** — Intermediário · Leitura de documentação técnica, artigos e conteúdos voltados ao desenvolvimento de software.
 
 ---
 
@@ -256,4 +251,4 @@ Se você busca alguém comprometido com qualidade, inovação e resultado, vamos
 
 ---
 
-🧠 "Tecnologia não é apenas código. É a capacidade de transformar ideias em soluções que geram impacto real."
+<p align="center">🧠 "Tecnologia não é apenas código. É a capacidade de transformar ideias em soluções que geram impacto real."</p>
