@@ -4,15 +4,6 @@
 
 <h1 align="center">E aí! 👋 Tudo bem?</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Software+Developer+na+CISS+S.A;Criando+soluções+digitais+modernas;Focado+em+UI%2FUX%2C+Performance+e+Acessibilidade"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-2563eb?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=daltonneres&style=for-the-badge&color=2563eb&label=Visitas+ao+perfil"/>
-</p>
-
 ---
 
 👋 Olá! Sou Dalton José Neres, Desenvolvedor Full Stack e Desenvolvedor de Software na CISS S.A, atuando na criação de soluções digitais modernas, escaláveis e orientadas à experiência do usuário.
